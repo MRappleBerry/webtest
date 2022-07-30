@@ -2,4 +2,7 @@
 [-] Do you want to save your payload as a textfile? (Y/N) -> (option if you want to save your payload or not)
 [-] Create your textfile -> (name of the textfile that will be storing the result of the scan)
 [-] List of Targets ->(target list in text format)/*please put the exact location of the file*/
-Total of List -> 6985
+
+result of the scan will be found in same folder of webtest.py
+
+hope it help :D peace yow!
